@@ -1,5 +1,5 @@
 # mapillary_360onex
-Mapillary processing scripts for Insta360 One X
+Mapillary processing scripts for Insta360 One X camera
 
 Geotag images in a specific directory by GPX track file. Please specify Mapillary username.
 The script assumes that GPX file contains UTC timestamps while JPG EXIF timestamps are in local time.
