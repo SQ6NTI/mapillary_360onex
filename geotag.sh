@@ -1,4 +1,5 @@
 #!/bin/bash
+# Prepares 360 files for upload to Mapillary
 
 [ $# -eq 0 ] && { echo "Usage: $0 <GPXFile> <ImageDir> <MapillaryUsername>"; exit 1; }
 
